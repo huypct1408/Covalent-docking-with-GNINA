@@ -1,0 +1,389 @@
+{
+  "PPARA_7BQ2": {
+    "pdb_id": "7BQ2",
+    "description": "Peroxisome Proliferator-Activated Receptor alpha",
+    "validation_status": "REQUIRES_BINDING_POCKET_INSPECTION",
+    "nucleophiles": [
+      {
+        "warhead": "B2",
+        "warhead_type": "primary",
+        "electrophilicity": 9.5,
+        "target_atom": "A:248:SG",
+        "residue": "CYS248",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "requires_binding_pocket_inspection",
+        "reactivity_rank": 1,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      },
+      {
+        "warhead": "B1",
+        "warhead_type": "secondary",
+        "electrophilicity": 6.5,
+        "target_atom": "A:275:SG",
+        "residue": "CYS275",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "requires_binding_pocket_inspection",
+        "reactivity_rank": 2,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      }
+    ]
+  },
+  "PPARG_8ATY": {
+    "pdb_id": "8ATY",
+    "description": "Peroxisome Proliferator-Activated Receptor gamma",
+    "validation_status": "REQUIRES_BINDING_POCKET_INSPECTION",
+    "nucleophiles": [
+      {
+        "warhead": "B2",
+        "warhead_type": "primary",
+        "electrophilicity": 9.5,
+        "target_atom": "A:285:SG",
+        "residue": "CYS285",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "requires_binding_pocket_inspection",
+        "reactivity_rank": 1,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      },
+      {
+        "warhead": "B1",
+        "warhead_type": "secondary",
+        "electrophilicity": 6.5,
+        "target_atom": "A:208:OG",
+        "residue": "SER208",
+        "chain": "A",
+        "atom_name": "OG",
+        "confidence": "requires_binding_pocket_inspection",
+        "reactivity_rank": 2,
+        "nucleophile_type": "oxygen",
+        "properties": {
+          "name": "Serine",
+          "type": "oxygen",
+          "pKa": 13.0,
+          "reactivity": "medium"
+        }
+      }
+    ]
+  },
+  "PPARD_7WGN": {
+    "pdb_id": "7WGN",
+    "description": "Peroxisome Proliferator-Activated Receptor delta",
+    "validation_status": "REQUIRES_BINDING_POCKET_INSPECTION",
+    "nucleophiles": [
+      {
+        "warhead": "B2",
+        "warhead_type": "primary",
+        "electrophilicity": 9.5,
+        "target_atom": "A:249:SG",
+        "residue": "CYS249",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "requires_binding_pocket_inspection",
+        "reactivity_rank": 1,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      },
+      {
+        "warhead": "B1",
+        "warhead_type": "secondary",
+        "electrophilicity": 6.5,
+        "target_atom": "A:251:SG",
+        "residue": "CYS251",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "requires_binding_pocket_inspection",
+        "reactivity_rank": 2,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      }
+    ]
+  },
+  "EGFR_1XKK": {
+    "pdb_id": "1XKK",
+    "description": "Epidermal Growth Factor Receptor",
+    "validation_status": "REQUIRES_BINDING_POCKET_INSPECTION",
+    "nucleophiles": [
+      {
+        "warhead": "B2",
+        "warhead_type": "primary",
+        "electrophilicity": 9.5,
+        "target_atom": "A:775:SG",
+        "residue": "CYS775",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "requires_binding_pocket_inspection",
+        "reactivity_rank": 1,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      },
+      {
+        "warhead": "B1",
+        "warhead_type": "secondary",
+        "electrophilicity": 6.5,
+        "target_atom": "A:781:SG",
+        "residue": "CYS781",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "requires_binding_pocket_inspection",
+        "reactivity_rank": 2,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      }
+    ]
+  },
+  "ERBB2_7PCD": {
+    "pdb_id": "7PCD",
+    "description": "Receptor Tyrosine-Protein Kinase ERBB2",
+    "validation_status": "REQUIRES_BINDING_POCKET_INSPECTION",
+    "nucleophiles": [
+      {
+        "warhead": "B2",
+        "warhead_type": "primary",
+        "electrophilicity": 9.5,
+        "target_atom": "A:789:SG",
+        "residue": "CYS789",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "requires_binding_pocket_inspection",
+        "reactivity_rank": 1,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      },
+      {
+        "warhead": "B1",
+        "warhead_type": "secondary",
+        "electrophilicity": 6.5,
+        "target_atom": "A:805:SG",
+        "residue": "CYS805",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "requires_binding_pocket_inspection",
+        "reactivity_rank": 2,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      }
+    ]
+  },
+  "KDR_5EW3": {
+    "pdb_id": "5EW3",
+    "description": "Vascular Endothelial Growth Factor Receptor 2 (KDR)",
+    "validation_status": "REQUIRES_BINDING_POCKET_INSPECTION",
+    "nucleophiles": [
+      {
+        "warhead": "B2",
+        "warhead_type": "primary",
+        "electrophilicity": 9.5,
+        "target_atom": "A:862:SG",
+        "residue": "CYS862",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "requires_binding_pocket_inspection",
+        "reactivity_rank": 1,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      },
+      {
+        "warhead": "B1",
+        "warhead_type": "secondary",
+        "electrophilicity": 6.5,
+        "target_atom": "A:905:SG",
+        "residue": "CYS905",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "requires_binding_pocket_inspection",
+        "reactivity_rank": 2,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      }
+    ]
+  },
+  "PTGS2_5KIR": {
+    "pdb_id": "5KIR",
+    "description": "Prostaglandin G/H Synthase 2 (COX-2)",
+    "validation_status": "REQUIRES_BINDING_POCKET_INSPECTION",
+    "nucleophiles": [
+      {
+        "warhead": "B2",
+        "warhead_type": "primary",
+        "electrophilicity": 9.5,
+        "target_atom": "A:36:SG",
+        "residue": "CYS36",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "requires_binding_pocket_inspection",
+        "reactivity_rank": 1,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      },
+      {
+        "warhead": "B1",
+        "warhead_type": "secondary",
+        "electrophilicity": 6.5,
+        "target_atom": "A:37:SG",
+        "residue": "CYS37",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "requires_binding_pocket_inspection",
+        "reactivity_rank": 2,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      }
+    ]
+  },
+  "ALOX5_6NCF": {
+    "pdb_id": "6NCF",
+    "description": "Arachidonate 5-Lipoxygenase",
+    "validation_status": "REQUIRES_BINDING_POCKET_INSPECTION",
+    "nucleophiles": [
+      {
+        "warhead": "B2",
+        "warhead_type": "primary",
+        "electrophilicity": 9.5,
+        "target_atom": "A:34:SG",
+        "residue": "CYS34",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "requires_binding_pocket_inspection",
+        "reactivity_rank": 1,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      },
+      {
+        "warhead": "B1",
+        "warhead_type": "secondary",
+        "electrophilicity": 6.5,
+        "target_atom": "A:99:SG",
+        "residue": "CYS99",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "requires_binding_pocket_inspection",
+        "reactivity_rank": 2,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      }
+    ]
+  },
+  "PTGES_5TL9": {
+    "pdb_id": "5TL9",
+    "description": "Prostaglandin E Synthase",
+    "validation_status": "PARTIAL",
+    "nucleophiles": [
+      {
+        "warhead": "B2",
+        "warhead_type": "primary",
+        "electrophilicity": 9.5,
+        "target_atom": "A:19:SG",
+        "residue": "CYS19",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "partial",
+        "reactivity_rank": 1,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      },
+      {
+        "warhead": "B1",
+        "warhead_type": "secondary",
+        "electrophilicity": 6.5,
+        "target_atom": "A:68:SG",
+        "residue": "CYS68",
+        "chain": "A",
+        "atom_name": "SG",
+        "confidence": "partial",
+        "reactivity_rank": 2,
+        "nucleophile_type": "sulfur",
+        "properties": {
+          "name": "Cysteine",
+          "type": "sulfur",
+          "pKa": 8.5,
+          "reactivity": "high"
+        }
+      }
+    ]
+  }
+}
