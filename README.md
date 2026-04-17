@@ -1,0 +1,2 @@
+# Covalent-docking-with-GNINA
+COVALENT DOCKING WITH GNINA
